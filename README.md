@@ -1,5 +1,5 @@
 Overview
-This project explores the integration of an adaptive antenna array system with a spectrum analyzer and an Arduino for randomized beamforming and signal estimation. By generating and analyzing various antenna array patterns, this project demonstrates how to measure power levels at specific frequencies and estimate the signal direction based on received power data.
+This project explores the integration of an Reconfigurable Intelegent Surface with a spectrum analyzer and an Arduino for randomized beamforming and signal estimation. By generating and analyzing various antenna array patterns, this project demonstrates how to measure power levels at specific frequencies and estimate the signal direction based on received power data.
 
 Features
 Random Beamforming Pattern Generation: Generate and send randomized antenna array patterns based on specific angles.
